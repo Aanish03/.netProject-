@@ -1,0 +1,2 @@
+
+                MessageBox.Show("Client Not Deleted", "Delete Client", MessageBoxButtons.OK, MessageBoxIcon.Warning)            End If        End If    End Sub
